@@ -1,0 +1,2 @@
+// Image feature
+export {};

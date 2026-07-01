@@ -1,0 +1,6 @@
+{
+  "name": "CallMissed AI Studio",
+  "description": "A production-quality AI application with streaming chat, image generation, and vision, acting as an AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
